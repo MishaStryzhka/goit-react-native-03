@@ -106,7 +106,6 @@ const styles = StyleSheet.create({
 
     titel: {
         fontFamily: "Roboto-Medium",
-        fontWeight: 500,
         fontSize: 30,
         lineHeight: 35,
         textAlign: "center",
@@ -167,7 +166,6 @@ const styles = StyleSheet.create({
     btnRegisterText: {
         fontFamily: "Roboto-Medium",
         fontStyle: "normal",
-        fontWeight: 400,
         fontSize: 16,
         lineHeight: 19,
 
@@ -183,7 +181,6 @@ const styles = StyleSheet.create({
     btnSignInText: {
         fontFamily: "Roboto-Medium",
         fontStyle: "normal",
-        fontWeight: 400,
         fontSize: 16,
         lineHeight: 19,
         color: "#1B4371",
